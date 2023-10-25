@@ -26,7 +26,7 @@ def score_game(random_predict) -> int:
     """How many guesses on average
 
     Args:
-        random_predict (_type_): guessing function
+        random_predict (types): guessing function
 
     Returns:
         int: average number of attempts
